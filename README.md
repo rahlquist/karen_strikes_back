@@ -7,7 +7,10 @@ from five distinct, opinionated lenses.
 > The name is a joke: this is the "review pod" that tears your project apart so
 > your users don't have to. Karen is the orchestrator; the four workers are the
 > ones who actually strike.
-
+>
+# Remember
+Each one of these come with their own setttings for what model to use, make 
+certaoin you adjust them appropriate for you
 ---
 
 ## What's in here
