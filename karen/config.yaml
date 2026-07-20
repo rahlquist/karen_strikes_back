@@ -1,0 +1,33 @@
+model:
+  provider: nous
+  default: moonshotai/kimi-k3
+agent:
+  max_turns: 150
+platform_toolsets:
+  cli:
+    - browser
+    - clarify
+    - code_execution
+    - computer_use
+    - delegation
+    - file
+    - image_gen
+    - memory
+    - session_search
+    - skills
+    - terminal
+    - todo
+    - tts
+    - vision
+    - web
+display:
+  tool_progress: all
+command_allowlist:
+  - script execution via -e/-c flag
+  - execute_code
+_config_version: 33
+session_reset:
+  mode: none
+onboarding:
+  seen:
+    tool_progress_prompt: true

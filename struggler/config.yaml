@@ -1,0 +1,42 @@
+model:
+  default: moonshotai/kimi-k3
+  provider: nous
+agent:
+  max_turns: 150
+web:
+  backend: firecrawl
+  use_gateway: true
+browser:
+  cloud_provider: local
+  use_gateway: false
+display:
+  tool_progress: all
+tts:
+  use_gateway: false
+_config_version: 33
+session_reset:
+  mode: none
+image_gen:
+  use_gateway: true
+  model: fal-ai/flux-2/klein/9b
+platform_toolsets:
+  cli:
+    - browser
+    - clarify
+    - code_execution
+    - computer_use
+    - cronjob
+    - delegation
+    - file
+    - image_gen
+    - memory
+    - session_search
+    - skills
+    - terminal
+    - todo
+    - tts
+    - vision
+    - web
+known_plugin_toolsets:
+  cli:
+    - spotify
