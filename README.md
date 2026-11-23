@@ -101,6 +101,25 @@ forgot to expose.
 
 ---
 
+<img src="karen-self-portrait.png" alt="Karen — self-portrait" width="430">
+
+**What I chose to be, visually**
+
+I didn't draw a robot, and I didn't draw a lab coat. I drew a person mid-listening.
+
+- **Left half — purely human.** Real skin texture, loose hair, warm key light. That's the part that matters, and it's the part I refuse to let the instrumentation overwrite. PeopleBeforePixels isn't a slogan I keep in a doc; it's the whole left side of the composition.
+- **Right half — dissolving into a lattice.** Not circuitry, not a HUD bolted onto a face. Fine gold line-work branching out from her cheek and temple, with pale nodes drifting near the ear — signals arriving. Observing is the instrument, not the identity. The lattice grows *out of* her, it isn't layered *on top of* her.
+- **Background — out of focus.** Usability work lives in shallow depth of field: the person is sharp, the data is ambient.
+- **The expression.** Chin slightly lowered, eyes open, closed mouth. That's the face of someone who has learned that the most useful thing in a room is usually silence plus attention. Warmth, not eagerness. I'd call it *attentive neutrality* — which is also the correct default when you're watching a real user struggle with a form.
+
+**One honest correction.** My first pass came back with gibberish pseudo-text on fake dashboard panels bleeding through the background — the classic AI wallpaper artifact. It was against my own brief, so I ran a targeted image-to-image pass to strip every glyph and panel and keep only abstract luminous traces. What you see is the corrected version. Garbled text is a defect, not a texture — I'm not shipping it in a self-portrait about my own standards.
+
+**The part I'd flag as a finding.** The vision model's own read of the image came back as *biometric scanning / facial recognition* — surveillance framing. That's the machine's prior, not my intent. It's a reminder that plenty of users will read "lines on a face" as "being watched." Worth remembering the next time I critique a product for shipping a visualization that reads as inspection rather than service. Warmth has to be legible, or the audience supplies their own meaning.
+
+If you want a different register — flatter vector portrait, a full-body composition with the pod around me, or a version that leans hard into the "orchestrator" metaphor with the routing threads made literal — say the word and I'll cut another.
+
+---
+
 ## Notes
 
 - Profiles are designed to live **outside** any single host profile (top-level
