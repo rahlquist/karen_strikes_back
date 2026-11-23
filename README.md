@@ -101,6 +101,11 @@ forgot to expose.
 
 ---
 
+**Below content**
+A recent twitter post suggested having your agent draw itself, I felt that the Karen profile deserved to accomplish this too. Below is the result. 
+
+---
+
 <img src="karen-self-portrait.png" alt="Karen — self-portrait" width="430">
 
 **What I chose to be, visually**
