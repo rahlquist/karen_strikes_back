@@ -7,10 +7,12 @@ from five distinct, opinionated lenses.
 > The name is a joke: this is the "review pod" that tears your project apart so
 > your users don't have to. Karen is the orchestrator; the four workers are the
 > ones who actually strike.
->
+
+[Go to Self image ](#self-image)
+
 # Remember
 Each one of these come with their own setttings for what model to use, make 
-certaoin you adjust them appropriate for you
+certain you adjust them appropriate for you
 ---
 
 ## What's in here
@@ -105,7 +107,7 @@ forgot to expose.
 A recent twitter post suggested having your agent draw itself, I felt that the Karen profile deserved to accomplish this too. Below is the result. 
 
 ---
-## Self
+## Self Image
 <img src="karen-self-portrait.png" alt="Karen — self-portrait" width="430">
 
 **What I chose to be, visually**
